@@ -1,0 +1,357 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ContentView"
+provides-nominal:
+- "6iosApp11ContentViewV"
+- "So18SharedRocketLaunchC"
+provides-member:
+- ["6iosApp11ContentViewV", ""]
+- ["So18SharedRocketLaunchC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "ContentView"
+- "DatabaseDriverFactory"
+- "FloatLiteralType"
+- "Identifiable"
+- "IntegerLiteralType"
+- !private "List"
+- "RocketLaunch"
+- "RocketLaunchRow"
+- "SpaceXSDK"
+- "State"
+- "StringLiteralType"
+- "VStack"
+- "View"
+- !private "launches"
+- !private "loadData"
+- "print"
+- !private "sdk"
+depends-member:
+- ["7SwiftUI10AnimatableP", ""]
+- ["Sa", "init"]
+- ["SK", ""]
+- ["SK", "init"]
+- ["8CloudKit21CKRecordValueProtocolP", "init"]
+- ["s7CVarArgP", "Default_ID"]
+- ["s7CVarArgP", "ID"]
+- ["s7CVarArgP", "_Default_ID"]
+- !private ["s7CVarArgP", "flightNumber"]
+- !private ["s7CVarArgP", "getLaunches"]
+- ["s7CVarArgP", "id"]
+- ["s7CVarArgP", "init"]
+- ["Sl", ""]
+- ["Sl", "init"]
+- ["SL", ""]
+- ["6iosApp11ContentViewV", "$launches"]
+- ["6iosApp11ContentViewV", "Body"]
+- ["6iosApp11ContentViewV", "DatabaseDriverFactory"]
+- ["6iosApp11ContentViewV", "Default_Body"]
+- !private ["6iosApp11ContentViewV", "List"]
+- ["6iosApp11ContentViewV", "RocketLaunch"]
+- !private ["6iosApp11ContentViewV", "RocketLaunchRow"]
+- ["6iosApp11ContentViewV", "SpaceXSDK"]
+- ["6iosApp11ContentViewV", "State"]
+- !private ["6iosApp11ContentViewV", "VStack"]
+- ["6iosApp11ContentViewV", "View"]
+- ["6iosApp11ContentViewV", ""]
+- ["6iosApp11ContentViewV", "_Default_Body"]
+- !private ["6iosApp11ContentViewV", "_launches"]
+- ["6iosApp11ContentViewV", "_makeView"]
+- ["6iosApp11ContentViewV", "_makeViewList"]
+- ["6iosApp11ContentViewV", "_viewListCount"]
+- ["6iosApp11ContentViewV", "body"]
+- ["6iosApp11ContentViewV", "init"]
+- ["6iosApp11ContentViewV", "launches"]
+- ["6iosApp11ContentViewV", "loadData"]
+- !private ["6iosApp11ContentViewV", "print"]
+- ["6iosApp11ContentViewV", "sdk"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- ["s28CustomDebugStringConvertibleP", "Default_ID"]
+- ["s28CustomDebugStringConvertibleP", "ID"]
+- ["s28CustomDebugStringConvertibleP", "_Default_ID"]
+- !private ["s28CustomDebugStringConvertibleP", "flightNumber"]
+- !private ["s28CustomDebugStringConvertibleP", "getLaunches"]
+- ["s28CustomDebugStringConvertibleP", "id"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "Default_ID"]
+- ["s23CustomStringConvertibleP", "ID"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_ID"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "flightNumber"]
+- !private ["s23CustomStringConvertibleP", "getLaunches"]
+- ["s23CustomStringConvertibleP", "id"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["10Foundation12DataProtocolP", ""]
+- ["10Foundation12DataProtocolP", "init"]
+- ["So27SharedDatabaseDriverFactoryC", "init"]
+- ["Se", "init"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["7SwiftUI15DynamicPropertyP", "init"]
+- ["7SwiftUI15DynamicPropertyP", "wrappedValue"]
+- ["SE", "init"]
+- ["SQ", "Default_ID"]
+- ["SQ", "ID"]
+- ["SQ", ""]
+- ["SQ", "_Default_ID"]
+- !private ["SQ", "flightNumber"]
+- !private ["SQ", "getLaunches"]
+- ["SQ", "id"]
+- ["SQ", "init"]
+- !private ["SQ", "leading"]
+- ["s25ExpressibleByArrayLiteralP", ""]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", "Default_ID"]
+- ["SH", "ID"]
+- ["SH", ""]
+- ["SH", "_Default_ID"]
+- !private ["SH", "flightNumber"]
+- !private ["SH", "getLaunches"]
+- ["SH", "id"]
+- ["SH", "init"]
+- !private ["7SwiftUI19HorizontalAlignmentV", "leading"]
+- ["s12IdentifiableP", "Default_ID"]
+- ["s12IdentifiableP", "ID"]
+- ["s12IdentifiableP", ""]
+- ["s12IdentifiableP", "_Default_ID"]
+- !private ["s12IdentifiableP", "flightNumber"]
+- ["s12IdentifiableP", "id"]
+- ["So10SharedBaseC", "Default_ID"]
+- ["So10SharedBaseC", "ID"]
+- ["So10SharedBaseC", ""]
+- ["So10SharedBaseC", "_Default_ID"]
+- !private ["So10SharedBaseC", "flightNumber"]
+- !private ["So10SharedBaseC", "getLaunches"]
+- !private ["So10SharedBaseC", "getLaunchesForceReload"]
+- ["So10SharedBaseC", "id"]
+- ["So10SharedBaseC", "init"]
+- !private ["7SwiftUI4ListV", "init"]
+- !private ["7SwiftUI4ListV", "onAppear"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["SM", ""]
+- ["SM", "init"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- ["So8NSCodingP", ""]
+- ["So9NSCopyingP", "Default_ID"]
+- ["So9NSCopyingP", "ID"]
+- !private ["So9NSCopyingP", ""]
+- ["So9NSCopyingP", "_Default_ID"]
+- !private ["So9NSCopyingP", "flightNumber"]
+- !private ["So9NSCopyingP", "getLaunches"]
+- !private ["So9NSCopyingP", "getLaunchesForceReload"]
+- ["So9NSCopyingP", "id"]
+- ["So9NSCopyingP", "init"]
+- ["So8NSObjectC", "Default_ID"]
+- ["So8NSObjectC", "ID"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "_Default_ID"]
+- !private ["So8NSObjectC", "flightNumber"]
+- !private ["So8NSObjectC", "getLaunches"]
+- !private ["So8NSObjectC", "getLaunchesForceReload"]
+- ["So8NSObjectC", "id"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectP", "Default_ID"]
+- ["So8NSObjectP", "ID"]
+- !private ["So8NSObjectP", ""]
+- ["So8NSObjectP", "_Default_ID"]
+- !private ["So8NSObjectP", "flightNumber"]
+- !private ["So8NSObjectP", "getLaunches"]
+- !private ["So8NSObjectP", "getLaunchesForceReload"]
+- ["So8NSObjectP", "id"]
+- ["So8NSObjectP", "init"]
+- ["Sk", ""]
+- ["Sk", "init"]
+- ["Sm", ""]
+- ["Sm", "init"]
+- ["So18SharedRocketLaunchC", "Default_ID"]
+- ["So18SharedRocketLaunchC", "ID"]
+- ["So18SharedRocketLaunchC", ""]
+- ["So18SharedRocketLaunchC", "_Default_ID"]
+- !private ["So18SharedRocketLaunchC", "flightNumber"]
+- ["So18SharedRocketLaunchC", "id"]
+- !private ["6iosApp15RocketLaunchRowV", ""]
+- !private ["6iosApp15RocketLaunchRowV", "init"]
+- ["ST", ""]
+- ["ST", "init"]
+- !private ["So15SharedSpaceXSDKC", "getLaunches"]
+- ["So15SharedSpaceXSDKC", "init"]
+- ["7SwiftUI5StateV", "init"]
+- ["7SwiftUI5StateV", "projectedValue"]
+- ["7SwiftUI5StateV", "subscript"]
+- ["7SwiftUI5StateV", "wrappedValue"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s27StringInterpolationProtocolP", "init"]
+- ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["s20TextOutputStreamableP", ""]
+- !private ["7SwiftUI6VStackV", "init"]
+- ["7SwiftUI4ViewP", "Body"]
+- ["7SwiftUI4ViewP", "DatabaseDriverFactory"]
+- ["7SwiftUI4ViewP", "Default_Body"]
+- !private ["7SwiftUI4ViewP", "List"]
+- ["7SwiftUI4ViewP", "RocketLaunch"]
+- !private ["7SwiftUI4ViewP", "RocketLaunchRow"]
+- ["7SwiftUI4ViewP", "SpaceXSDK"]
+- ["7SwiftUI4ViewP", "State"]
+- !private ["7SwiftUI4ViewP", "VStack"]
+- ["7SwiftUI4ViewP", ""]
+- ["7SwiftUI4ViewP", "_Default_Body"]
+- ["7SwiftUI4ViewP", "_makeView"]
+- ["7SwiftUI4ViewP", "_makeViewList"]
+- ["7SwiftUI4ViewP", "_viewListCount"]
+- ["7SwiftUI4ViewP", "body"]
+- !private ["7SwiftUI4ViewP", "init"]
+- !private ["7SwiftUI4ViewP", "launches"]
+- !private ["7SwiftUI4ViewP", "loadData"]
+- !private ["7SwiftUI4ViewP", "onAppear"]
+- !private ["7SwiftUI4ViewP", "print"]
+- !private ["7SwiftUI4ViewP", "sdk"]
+- !private ["7SwiftUI11ViewBuilderV", "buildBlock"]
+- !private ["7SwiftUI11ViewBuilderV", "buildExpression"]
+- !private ["7SwiftUI11ViewBuilderV", "buildFinalResult"]
+- !private ["7SwiftUI11ViewBuilderV", "buildIf"]
+- !private ["7SwiftUI11ViewBuilderV", "buildOptional"]
+- ["s14_ArrayProtocolP", "init"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["s19_HasContiguousBytesP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Default_ID"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ID"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "_Default_ID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "flightNumber"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getLaunches"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "id"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Default_ID"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ID"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "_Default_ID"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "flightNumber"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "getLaunches"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "id"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- "7SwiftUI10AnimatableP"
+- "Sa"
+- "SK"
+- "8CloudKit21CKRecordValueProtocolP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "6iosApp11ContentViewV"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation12DataProtocolP"
+- "So27SharedDatabaseDriverFactoryC"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- "7SwiftUI15DynamicPropertyP"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "7SwiftUI19HorizontalAlignmentV"
+- "s12IdentifiableP"
+- "So10SharedBaseC"
+- !private "7SwiftUI4ListV"
+- "s25LosslessStringConvertibleP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "Sk"
+- "Sm"
+- "So18SharedRocketLaunchC"
+- !private "6iosApp15RocketLaunchRowV"
+- "ST"
+- "So15SharedSpaceXSDKC"
+- "7SwiftUI5StateV"
+- !private "s27StringInterpolationProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "7SwiftUI6VStackV"
+- "7SwiftUI4ViewP"
+- !private "7SwiftUI11ViewBuilderV"
+- "s14_ArrayProtocolP"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftUI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UniformTypeIdentifiers.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/DeveloperToolsSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/build/xcode-frameworks/shared.framework/Headers/shared.h"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/build/xcode-frameworks/shared.framework/Modules/module.modulemap"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/usr/include/Darwin.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UniformTypeIdentifiers.framework/Headers/UniformTypeIdentifiers.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6aa667449f876bb43ee9b34f7c153c45"

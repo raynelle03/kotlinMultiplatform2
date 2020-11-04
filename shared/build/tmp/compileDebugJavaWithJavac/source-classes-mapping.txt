@@ -1,0 +1,2 @@
+com/example/ioshacketonapp/android/BuildConfig.java
+ com.example.ioshacketonapp.android.BuildConfig

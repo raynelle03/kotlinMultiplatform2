@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-serialization-metadata:posixMain:1.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shared/build/tmp/kotlinMetadata/iosMain/implementation/io.ktor-ktor-client-serialization-metadata/io.ktor-ktor-client-serialization-metadata-posixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization-metadata/1.4.0/ddbada614d4be1e65f4a7b85b122709bbe59d2e7/ktor-client-serialization-metadata-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

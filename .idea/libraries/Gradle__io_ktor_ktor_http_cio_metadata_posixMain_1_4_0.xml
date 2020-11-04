@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-http-cio-metadata:posixMain:1.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shared/build/tmp/kotlinMetadata/iosMain/implementation/io.ktor-ktor-http-cio-metadata/io.ktor-ktor-http-cio-metadata-posixMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-metadata/1.4.0/2bab77d39645005d3e6133c14f5c1d6d9f9de56/ktor-http-cio-metadata-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

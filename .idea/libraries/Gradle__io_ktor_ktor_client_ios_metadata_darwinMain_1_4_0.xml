@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-client-ios-metadata:darwinMain:1.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shared/build/tmp/kotlinMetadata/iosMain/implementation/io.ktor-ktor-client-ios-metadata/io.ktor-ktor-client-ios-metadata-darwinMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-ios-metadata/1.4.0/6aba2d1ff27b954d8da79ae9fd27c290148fa49e/ktor-client-ios-metadata-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

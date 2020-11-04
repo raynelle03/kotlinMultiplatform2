@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:70-114
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:1-4:12
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:3:1-62
+	android:name
+		ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml:3:18-60
+uses-sdk
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/raynellefrancisca/AndroidStudioProjects/iOSHacketonApp/shared/src/androidMain/AndroidManifest.xml

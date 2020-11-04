@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.sqldelight:native-driver-iosarm64:klib:1.4.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/native-driver-iosarm64/1.4.4/ad5d5c2394c7c3f655dc691e208752130edacfc7/native-driver.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/native-driver-iosarm64/1.4.4/bcc29d8550db2123d40566a81357bf4b500f8f6e/native-driver-iosarm64-1.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

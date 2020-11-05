@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: io.ktor:ktor-client-json-metadata:commonMain:1.4.0">
+  <library name="Gradle: io.ktor:ktor-client-json-metadata:commonMain:1.4.0" type="kotlin.common">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/shared/build/tmp/kotlinMetadata/commonMain/implementation/io.ktor-ktor-client-json-metadata/io.ktor-ktor-client-json-metadata-commonMain.klib!/" />
     </CLASSES>

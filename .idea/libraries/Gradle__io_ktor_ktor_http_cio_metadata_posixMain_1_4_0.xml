@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: io.ktor:ktor-http-cio-metadata:posixMain:1.4.0">
+  <library name="Gradle: io.ktor:ktor-http-cio-metadata:posixMain:1.4.0" type="kotlin.native">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/shared/build/tmp/kotlinMetadata/iosMain/implementation/io.ktor-ktor-http-cio-metadata/io.ktor-ktor-http-cio-metadata-posixMain.klib!/" />
     </CLASSES>

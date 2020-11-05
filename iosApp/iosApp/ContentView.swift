@@ -3,7 +3,7 @@ import shared
 
 struct ContentView: View {
 	@State var launches = [RocketLaunch]()
-	let sdk = SpaceXSDK(databaseDriverFactory: DatabaseDriverFactory())
+	let sdk = SpaceXSDK()
 
 
 	var body: some View {

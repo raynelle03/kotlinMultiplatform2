@@ -8,8 +8,8 @@
           <dependsOn>:shared:iosMain</dependsOn>
         </dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>iOSHacketonApp.shared.commonMain</sourceSet>
           <sourceSet>iOSHacketonApp.shared.iosMain</sourceSet>
+          <sourceSet>iOSHacketonApp.shared.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <compilerSettings />

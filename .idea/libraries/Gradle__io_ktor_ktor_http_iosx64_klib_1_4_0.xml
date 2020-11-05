@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: io.ktor:ktor-http-iosx64:klib:1.4.0">
+  <library name="Gradle: io.ktor:ktor-http-iosx64:klib:1.4.0" type="kotlin.native">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-iosx64/1.4.0/775b3754f9d4765e09fee55d98863bf30ee0faf2/ktor-http.klib!/" />
     </CLASSES>

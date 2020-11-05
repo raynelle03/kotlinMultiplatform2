@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: io.ktor:ktor-io-iosarm64:klib:cinterop-sockets:1.4.0">
+  <library name="Gradle: io.ktor:ktor-io-iosarm64:klib:cinterop-sockets:1.4.0" type="kotlin.native">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-iosarm64/1.4.0/aceab08af5bafd3cacda52bdd23a1125b96d9/ktor-io-cinterop-sockets.klib!/" />
     </CLASSES>

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: io.ktor:ktor-io-iosx64:klib:cinterop-bits:1.4.0">
+  <library name="Gradle: io.ktor:ktor-io-iosx64:klib:cinterop-bits:1.4.0" type="kotlin.native">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-iosx64/1.4.0/bd1ae94e3aa7ba512b039a3a98a072368a77ac30/ktor-io-cinterop-bits.klib!/" />
     </CLASSES>

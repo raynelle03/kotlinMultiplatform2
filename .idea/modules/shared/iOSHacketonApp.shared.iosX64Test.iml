@@ -8,11 +8,11 @@
           <dependsOn>:shared:iosTest</dependsOn>
         </dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>iOSHacketonApp.shared.commonTest</sourceSet>
-          <sourceSet>iOSHacketonApp.shared.iosMain</sourceSet>
           <sourceSet>iOSHacketonApp.shared.iosX64Main</sourceSet>
+          <sourceSet>iOSHacketonApp.shared.commonTest</sourceSet>
           <sourceSet>iOSHacketonApp.shared.iosTest</sourceSet>
           <sourceSet>iOSHacketonApp.shared.commonMain</sourceSet>
+          <sourceSet>iOSHacketonApp.shared.iosMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>

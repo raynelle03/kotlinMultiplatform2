@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.jetbrains.kotlinx:atomicfu-common:nativeInterop:0.14.4">
+  <library name="Gradle: org.jetbrains.kotlinx:atomicfu-common:nativeInterop:0.14.4" type="kotlin.native">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/shared/build/tmp/kotlinMetadata/iosMain/implementation/org.jetbrains.kotlinx-atomicfu-common/org.jetbrains.kotlinx-atomicfu-common-nativeInterop.klib!/" />
     </CLASSES>

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: io.ktor:ktor-utils-metadata:utilsInterop:1.4.0">
+  <library name="Gradle: io.ktor:ktor-utils-metadata:utilsInterop:1.4.0" type="kotlin.native">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/shared/build/tmp/kotlinMetadata/iosMain/implementation/io.ktor-ktor-utils-metadata/io.ktor-ktor-utils-metadata-utilsInterop.klib!/" />
     </CLASSES>

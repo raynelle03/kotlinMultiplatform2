@@ -12,7 +12,6 @@ depends-top-level:
 - !private "AssignmentPrecedence"
 - !private "BooleanLiteralType"
 - "ContentView"
-- "DatabaseDriverFactory"
 - "FloatLiteralType"
 - "Identifiable"
 - "IntegerLiteralType"
@@ -46,7 +45,6 @@ depends-member:
 - ["SL", ""]
 - ["6iosApp11ContentViewV", "$launches"]
 - ["6iosApp11ContentViewV", "Body"]
-- ["6iosApp11ContentViewV", "DatabaseDriverFactory"]
 - ["6iosApp11ContentViewV", "Default_Body"]
 - !private ["6iosApp11ContentViewV", "List"]
 - ["6iosApp11ContentViewV", "RocketLaunch"]
@@ -88,7 +86,6 @@ depends-member:
 - ["s23CustomStringConvertibleP", "init"]
 - ["10Foundation12DataProtocolP", ""]
 - ["10Foundation12DataProtocolP", "init"]
-- ["So27SharedDatabaseDriverFactoryC", "init"]
 - ["Se", "init"]
 - !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
 - !private ["s26DefaultStringInterpolationV", "appendLiteral"]
@@ -199,7 +196,6 @@ depends-member:
 - ["s20TextOutputStreamableP", ""]
 - !private ["7SwiftUI6VStackV", "init"]
 - ["7SwiftUI4ViewP", "Body"]
-- ["7SwiftUI4ViewP", "DatabaseDriverFactory"]
 - ["7SwiftUI4ViewP", "Default_Body"]
 - !private ["7SwiftUI4ViewP", "List"]
 - ["7SwiftUI4ViewP", "RocketLaunch"]
@@ -262,7 +258,6 @@ depends-nominal:
 - "s17CustomReflectableP"
 - "s23CustomStringConvertibleP"
 - "10Foundation12DataProtocolP"
-- "So27SharedDatabaseDriverFactoryC"
 - "Se"
 - !private "s26DefaultStringInterpolationV"
 - "7SwiftUI15DynamicPropertyP"
@@ -354,4 +349,4 @@ depends-external:
 - "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
 - "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Users/raynellefrancisca/Downloads/Xcode 5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "6aa667449f876bb43ee9b34f7c153c45"
+interface-hash: "0a1889f07b141c070dca6a238667ea94"

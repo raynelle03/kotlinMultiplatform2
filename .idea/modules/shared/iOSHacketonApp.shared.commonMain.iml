@@ -41,7 +41,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../shared/build/generated/sqldelight/code/AppDatabase">
-      <sourceFolder url="file://$MODULE_DIR$/../../../shared/build/generated/sqldelight/code/AppDatabase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../shared/build/generated/sqldelight/code/AppDatabase" type="kotlin-source" />
     </content>
     <content url="file://$MODULE_DIR$/../../../shared/src/commonMain/kotlin">
       <sourceFolder url="file://$MODULE_DIR$/../../../shared/src/commonMain/kotlin" type="kotlin-source" />
